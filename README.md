@@ -12,6 +12,6 @@ Evaluation for golang developer test
 ## Dos and Donts
 * This is an open book test and feel free to Google or lookup any language or library references.
 * You are allowed to use any libraries except ready made embedded databases (which makes this exercise pointless)
-* ChatGPT and other GenAI tools cannot be used.
+* ChatGPT and other GenAI tools cannot be used except as references for languagee nuances or library references. Copy pasting of code from anywhere is not allowed unless you are able to explain exactly what it does.
 
 
